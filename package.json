@@ -15,5 +15,12 @@
   "bugs": {
     "url": "https://github.com/nickchandler/proxy-server/issues"
   },
-  "homepage": "https://github.com/nickchandler/proxy-server#readme"
+  "homepage": "https://github.com/nickchandler/proxy-server#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "react": "^16.10.2",
+    "react-dom": "^16.10.2",
+    "request": "^2.88.0",
+    "webpack": "^4.41.2"
+  }
 }
