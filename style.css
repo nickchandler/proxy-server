@@ -13,3 +13,7 @@
 #playbar {
   position: absolute;
 }
+
+#container {
+  width: auto;
+}
