@@ -24,3 +24,7 @@
 
   grid-template-columns: 1, 200px;
 }
+
+body {
+  background-color: white;
+}
